@@ -2,7 +2,7 @@ $(document).ready(function(){
      $(".videoBox").fitVids();
 });
 
-var colors = ["#ff5c50", "#8981f1", "9b22c5"];
+var colors = ["#ff5c50", "#8981f1", "#9b22c5"];
 var color = colors[Math.floor(Math.random() * colors.length)];
 
 
